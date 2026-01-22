@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mritunjaysharma05&label=Profile%20views&color=0e75b6&style=flat" alt="mritunjaysharma05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mritunjaysharma05" alt="mritunjaysharma05" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mritunjay__05" target="blank"><img src="https://img.shields.io/twitter/follow/mritunjay__05?logo=twitter&style=for-the-badge" alt="mritunjay__05" /></a> </p>
 
 - 🔭 I’m currently working on **Deepfake Detection System using ResNet-50 (CNN-based Deep Learning Model)**
