@@ -34,25 +34,6 @@ me = AIEngineer()
 me.say_hi()
 ```
 
-<p align="left"> <a href="https://twitter.com/mritunjay__05" target="blank"><img src="https://img.shields.io/twitter/follow/mritunjay__05?logo=twitter&style=for-the-badge" alt="mritunjay__05" /></a> </p>
-
-- 🔭 I’m currently working on **Deepfake Detection System using ResNet-50 (CNN-based Deep Learning Model)**
-
-- 🌱 I’m currently learning **Machine Learning (Scikit-learn), Deep Learning with PyTorch, Computer Vision, NLP & LLMs**
-
-- 👯 I’m looking to collaborate on **Machine Learning, Deep Learning, and Computer Vision projects**
-
-- 🤝 I’m looking for help with **Optimizing Deep Learning models, model evaluation, and deployment**
-
-- 👨‍💻 All of my projects are available at [https://github.com](https://github.com)
-
-- 📝 I plan to write articles on [AI, Machine Learning, Deep Learning & Computer Vision](AI, Machine Learning, Deep Learning & Computer Vision)
-
-- 💬 Ask me about **Python, Data Analysis, Machine Learning, Deep Learning, PyTorch, Computer Vision**
-
-- 📫 How to reach me **mritunjaysharma080505@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1o_epQCwJQzZzIjediVmMm4ljhYiRlkcgXiVdy8xgQR0/edit?usp=sharing](https://docs.google.com/document/d/1o_epQCwJQzZzIjediVmMm4ljhYiRlkcgXiVdy8xgQR0/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
