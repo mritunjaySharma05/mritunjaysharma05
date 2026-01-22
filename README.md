@@ -1,7 +1,36 @@
-<h1 align="center">Hi 👋, I'm Mritunjay sharma</h1>
-<h3 align="center">AI/ML Engineer</h3>
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mritunjaysharma05&label=Profile%20views&color=0e75b6&style=flat" alt="mritunjaysharma05" /> </p>
+
+class AIEngineer:
+
+    def __init__(self):
+        self.name = "Mritunjay Sharma"
+        self.role = "AI Engineer"
+        self.specialization = [
+            "Machine Learning",
+            "Deep Learning (PyTorch)",
+            "Computer Vision",
+            "NLP & Large Language Models"
+        ]
+        self.current_project = "Deepfake Detection System using ResNet-50"
+        self.languages = {
+            "English": "fluent",
+            "Hindi": "native",
+            "German": "learning"
+        }
+
+    def say_hi(self):
+        print(
+            "Hi 👋 Thanks for visiting my profile!\n"
+            "I work on machine learning and deep learning projects,\n"
+            "and I’m currently exploring German alongside AI."
+        )
+
+
+me = AIEngineer()
+me.say_hi()
+
 
 <p align="left"> <a href="https://twitter.com/mritunjay__05" target="blank"><img src="https://img.shields.io/twitter/follow/mritunjay__05?logo=twitter&style=for-the-badge" alt="mritunjay__05" /></a> </p>
 
