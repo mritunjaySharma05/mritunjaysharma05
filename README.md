@@ -96,4 +96,3 @@ me.say_hi()
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mritunjaysharma05&show_icons=true&locale=en&layout=compact" alt="mritunjaysharma05" /></p>
