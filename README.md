@@ -11,7 +11,7 @@ class AIEngineer:
             "Computer Vision",
             "NLP & Large Language Models"
         ]
-        self.current_project = "Deepfake Detection System using ResNet-50"
+        self.current_project = "Customer Churn Prediction  - API"
         self.languages = {
             "English": "fluent",
             "Hindi": "native",
