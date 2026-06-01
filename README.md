@@ -11,7 +11,7 @@ class AIEngineer:
             "Computer Vision",
             "NLP & Large Language Models"
         ]
-        self.current_project = "Customer Churn Prediction  - API"
+        self.current_project = "Moksh AI V_3.0 "
         self.languages = {
             "English": "fluent",
             "Hindi": "native",
