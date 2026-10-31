@@ -11,7 +11,7 @@ class AIEngineer:
             "Computer Vision",
             "NLP & Large Language Models"
         ]
-        self.current_project = "Moksh AI V_3.0 "
+        self.current_project = "Data copilot "
         self.languages = {
             "English": "fluent",
             "Hindi": "native",
